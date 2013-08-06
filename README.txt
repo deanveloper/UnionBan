@@ -1,0 +1,1 @@
+This is the UnionBan plugin. It is worthless besides the fact that it does what I need it to do.
